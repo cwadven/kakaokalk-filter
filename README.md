@@ -1,10 +1,14 @@
 # 카카오톡 대화내용 닉네임 이름 날짜별 필터 프로그램
 
-## 사용법
+## Python으로 실행 사용법
 1. 가상환경 생성 : python -m venv 가상환경이름
 2. 가상환경 실행 : source 가상환경이름/source(혹은 bin)/activate
 3. 모듈 설치 : pip install -r requirements.txt
 4. 실행 : python kakao_filter_gui_ver3.py
+
+## EXE 파일로 실행
+[다운로드 경로]
+https://drive.google.com/file/d/12rTcFwM6Q8h6GQ_1J0VfZEWUqOAjPXi2/view?usp=sharing
 
 카카오톡 대화내용 닉네임, 이름 및 날짜 조건을 통해 필터링 하는 프로그램입니다.
 
