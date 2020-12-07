@@ -10,6 +10,8 @@
 [다운로드 경로]
 https://drive.google.com/file/d/12rTcFwM6Q8h6GQ_1J0VfZEWUqOAjPXi2/view?usp=sharing
 
+---
+
 카카오톡 대화내용 닉네임, 이름 및 날짜 조건을 통해 필터링 하는 프로그램입니다.
 
 지원 카카오톡 대화내용 txt 운영체제 : 윈도우, 안드로이드
